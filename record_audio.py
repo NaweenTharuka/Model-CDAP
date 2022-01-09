@@ -1,10 +1,6 @@
 
 """
 Resource: https://ricardodeazambuja.com/deep_learning/2019/03/09/audio_and_video_google_colab/
-
-Author references:
-To write this piece of code I took inspiration/code from a lot of places.
-It was late night, so I'm not sure how much I created or just copied o.O
 Here are some of the possible references:
 https://blog.addpipe.com/recording-audio-in-the-browser-using-pure-html5-and-minimal-javascript/
 https://stackoverflow.com/a/18650249

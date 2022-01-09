@@ -1,7 +1,3 @@
-#!/usr/bin/env python3
-# Author: Jan Cuhel
-# Date: 2.5.2021
-
 import os
 
 import gtts
